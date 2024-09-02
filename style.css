@@ -1,0 +1,72 @@
+
+header{
+    background-color: black;
+    padding: 10px;
+    font-family: "Open Sans", sans-serif;
+    position: sticky;
+    top: 0;
+    
+}
+
+header h1{
+    display: inline-block;
+    width:49%;
+    color: white;
+}
+header nav{
+    display: inline-block;
+    width: 49%;
+    color: white;
+    padding-left:100px;
+
+}
+main{
+    background:url(img3.jpg);
+    background-size: cover;
+    background-position: center;
+}
+header a{
+    margin:20px;
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+
+}
+.content-wrapper {
+    text-align: center;
+    color: white;
+    padding-top:130px;
+    font-size: 1.5rem;
+    font-family: "Open Sans", sans-serif;
+    line-height: 70px;
+    height: 100vh;
+
+}
+.button-1{
+    text-align: center;
+    text-decoration: none;
+    background-color: transparent;
+    border: solid white;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    margin-right: 20px;
+    font-family: "Open Sans", sans-serif;
+    
+
+}
+.button-2{
+    text-align: center;
+    text-decoration: none;
+    background-color: white;
+    border: solid white;
+    color: black;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    font-family: "Open Sans", sans-serif;
+}
+
+
+

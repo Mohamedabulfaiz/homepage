@@ -47,10 +47,10 @@ main{
     text-align: center;
     text-decoration: none;
     background-color: transparent;
-    border: solid white;
+    border: solid  2px;
     color: white;
     padding: 5px 10px;
-    border-radius: 2px;
+    border-radius: 5px;
     font-size: 1.2rem;
     margin-right: 20px;
     font-family: "Open Sans", sans-serif;
@@ -61,10 +61,10 @@ main{
     text-align: center;
     text-decoration: none;
     background-color: white;
-    border: solid white;
+    border: solid 2px;
     color: black;
     padding: 5px 10px;
-    border-radius: 2px;
+    border-radius: 5px;
     font-size: 1.2rem;
     font-family: "Open Sans", sans-serif;
 }

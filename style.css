@@ -1,7 +1,7 @@
 
 header{
     background-color: black;
-    padding: 10px;
+    padding: 10px 15px;
     font-family: "Open Sans", sans-serif;
     position: sticky;
     top: 0;
@@ -20,17 +20,18 @@ header nav{
     padding-left:100px;
 
 }
-main{
-    background:url(img3.jpg);
-    background-size: cover;
-    background-position: center;
-}
+
 header a{
     margin:20px;
     text-decoration: none;
     font-size: 18px;
     color: white;
 
+}
+main{
+    background:url(img3.jpg);
+    background-size: cover;
+    background-position: center;
 }
 .content-wrapper {
     text-align: center;

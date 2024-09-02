@@ -49,6 +49,7 @@ main{
     background-color: transparent;
     border: solid  2px;
     color: white;
+    font-weight: bold;
     padding: 5px 10px;
     border-radius: 5px;
     font-size: 1.2rem;
@@ -63,6 +64,7 @@ main{
     background-color: white;
     border: solid 2px white;
     color: black;
+    font-weight: bold;
     padding: 5px 10px;
     border-radius: 5px;
     font-size: 1.2rem;
